@@ -1,3 +1,3 @@
 # Hand-Written-DigitClasssification
-I have used adams optimizer, you can try other options as well.
+Other optimizers might give better performance depending on the type of dataset.
 The no of layers and epoch can be increased but the network is susciptible to over fitting
